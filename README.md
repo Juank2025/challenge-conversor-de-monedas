@@ -1,13 +1,6 @@
 <h1 align = "center">Conversor de Monedas</h1>
 
-
-
-
 ![Representación de conversión de monedas](https://github.com/user-attachments/assets/965ce748-79da-4917-a19d-4b59325bba8d)
-
-
-
-##Índice
 
 *[Descripción del proyecto](#Descripción-del-proyecto).
 <p>Esta es una aplicación capaz de convertir monedas a distintas divisas, principalmente USD, BRL , ARS y COP; que son las monedas del Dolar, brasil, argentina y colombia respectivamente</p>
@@ -58,12 +51,9 @@ En esta parte de la clase, se hacen los request hhtp correspondientes, se imprim
 
 ![image](https://github.com/user-attachments/assets/43f7f3fd-abea-4d2d-82ed-34b27a1406e0)
 
-
-
-
-
-
 *[Acceso al proyecto](#acceso-proyecto)
+Para acceder al proyecto puedes hacerlo en la siguiente URL:
+https://github.com/Juank2025/challenge-conversor-de-monedas.git
 
 *[Lenguajes y tecnologías utilizadas](#tecnologías-utilizadas)
 - Lenguaje de programación: Java
@@ -75,6 +65,5 @@ En esta parte de la clase, se hacen los request hhtp correspondientes, se imprim
 
 <h3>Juan Carlos Palma</h3> 
 
-
 *[Conclusión](#conclusión)
-Está aplicación es muy útil para hacer conversiones de monedas, si eres desarrollador puedes editar el código y añadir divisas de tu preferencia.
+<P>Está aplicación es muy útil para hacer conversiones de monedas, si eres desarrollador puedes editar el código y añadir divisas de tu preferencia.</P>
