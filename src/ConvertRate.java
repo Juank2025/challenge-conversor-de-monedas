@@ -8,7 +8,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ConvertRate extends ExchangeRateResponse {
-    private static final String API_KEY = "03533d985dd0df445e7bacb6"; // <-- poné tu API key aquí
+    private static final String API_KEY = "03533d985dd0df445e7bacb6";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
