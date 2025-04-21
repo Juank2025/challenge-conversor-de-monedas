@@ -52,8 +52,9 @@ En esta parte de la clase, se hacen los request hhtp correspondientes, se imprim
 ![image](https://github.com/user-attachments/assets/43f7f3fd-abea-4d2d-82ed-34b27a1406e0)
 
 *[Acceso al proyecto](#acceso-proyecto)
-Para acceder al proyecto puedes hacerlo en la siguiente URL:
-https://github.com/Juank2025/challenge-conversor-de-monedas.git
+<h6>Para acceder al proyecto puedes hacerlo en la siguiente URL:</h6>
+<p></p>https://github.com/Juank2025/challenge-conversor-de-monedas.git</p>
+
 
 *[Lenguajes y tecnologías utilizadas](#tecnologías-utilizadas)
 - Lenguaje de programación: Java
